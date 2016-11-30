@@ -1,5 +1,8 @@
 # OAuth
 
+http://earlybird.kr/1584 내용을 바탕으로 정리한 내용으로
+상세한 내용은 위 URL을 참고
+
 ## OAuth 1.0
 트위터에 의해 2007년10월 OAuth1.0이 확정되었어나
 세션 고정 공격(session fixation attcak)보안 결함으로 폐기
